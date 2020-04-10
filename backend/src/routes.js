@@ -2,7 +2,7 @@ const express = require('express');
 
 const OngController = require('./controllers/OngController');
 const IncidentController = require('./controllers/IncidentsController');
-const ProfileController = require('./controllers/ProfileController');
+//const ProfileController = require('./controllers/ProfileController');
 const SessionController = require('./controllers/SessionController');
 const PerfilController = require('./controllers/PerfilController');
 
